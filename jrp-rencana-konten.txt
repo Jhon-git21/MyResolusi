@@ -2,5 +2,8 @@ RENCANA KONTEN
 - PHP Framework
   * HTML
   * MySQL
+  * Laravel
 - Apk Karyawan
 - Javascript
+  * Vue
+- System Inference Fuzzy
