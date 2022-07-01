@@ -5,6 +5,5 @@ RENCANA KONTEN
   * Laravel
 - Apk Karyawan
 - Javascript
-  * Vue 
-  * React
+  * Vue
 - System Inference Fuzzy
